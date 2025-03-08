@@ -1,0 +1,2 @@
+# RedisView
+Redis data
